@@ -1,0 +1,7 @@
+ipykernel
+streamlit
+seaborn
+matplotlib
+pandas
+fastapi
+uvicorn
